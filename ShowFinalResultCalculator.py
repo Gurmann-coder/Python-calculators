@@ -1,3 +1,4 @@
+## This program is a simple calculator that allows the user to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers. The user can continue performing operations until they choose to stop. The program also handles invalid input and division by zero errors.
 check = True
 inputList = []
 
